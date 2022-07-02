@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Jul 02 17:35:58 2022
+[*]
+[dumpfile] "C:\Users\OMEN\Downloads\result (6)\top_FSMplusD.vcd"
+[dumpfile_mtime] "Sat Jul 02 09:28:46 2022"
+[dumpfile_size] 2828
+[savefile] "E:\My_studies\4th_year\Sem_2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch05\FSM+D.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -35 -35
+*-8.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 305
+@28
+top_FSMplusD_tb.clock
+top_FSMplusD_tb.reset
+@22
+top_FSMplusD_tb.a[3:0]
+top_FSMplusD_tb.b[3:0]
+top_FSMplusD_tb.c[3:0]
+top_FSMplusD_tb.d[3:0]
+top_FSMplusD_tb.e[3:0]
+top_FSMplusD_tb.R1[3:0]
+top_FSMplusD_tb.R2[3:0]
+top_FSMplusD_tb.R3[3:0]
+top_FSMplusD_tb.PS[3:0]
+top_FSMplusD_tb.NS[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
