@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Jul 02 09:11:06 2022
+[*]
+[dumpfile] "C:\Users\OMEN\Downloads\result (4)\FSMD.vcd"
+[dumpfile_mtime] "Sat Jul 02 00:44:48 2022"
+[dumpfile_size] 2792
+[savefile] "E:\My_studies\4th_year\Sem_2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch05\FSMD.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -113 -113
+*-11.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 305
+@28
+FSMD_tb.clock
+FSMD_tb.reset
+@24
+FSMD_tb.a[3:0]
+FSMD_tb.b[3:0]
+FSMD_tb.c[3:0]
+FSMD_tb.d[3:0]
+FSMD_tb.e[3:0]
+FSMD_tb.R1[3:0]
+FSMD_tb.R2[3:0]
+FSMD_tb.R3[3:0]
+FSMD_tb.PS[3:0]
+FSMD_tb.NS[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
