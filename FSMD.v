@@ -16,7 +16,15 @@ module FSMD (
 
 	always @ (posedge clock, posedge reset)
 	begin
-		PS <= (reset == 1'b1) ? S0 : NS;
+		if (reset == 1'b1) begin
+			R1 <= 0;
+			R2 <= 0;
+			R3 <= 0;
+			PS <= S0;
+		end
+		else begin
+			PS <= NS;
+		end
 	end
 	
 	always @ (*)
